@@ -1,17 +1,17 @@
 # INTERVIEW QUESTION
 
-INSTRUCTION: As a BackEnd Engineer, use your problem-solving skill and creativity to provide solution to the case study given below. DURATION: Turn in your work seven days after receiving the questions.
+INSTRUCTION: As a product manager, use your problem-solving skill and creativity to provide solution to the case study given below. DURATION: Turn in your work seven days after receiving the questions.
 
 ## Case Study 1
 
 A client runs a small shop in Lagos. He wants a solution to display products online and let customers place orders. It is possible for customers to use their debit card to pay using the solution. 
 
-As a BackEnd Engineer, 
+As a product manager, 
 
-1.	Create a database model/schema (Use suitable object names) for such a software solution using a pen and plain paper.
-2.	Write the SQL for the model in 1 above.
-3.	Create a simple microservice to handle debit card payment for the solution.
-4.	Expose the endpoint to pay created in 3 above using RESTful API verbs.
+1.	Use the IEEE SRS template to write a documentation for such a software solution.
+2.	Develop a product roadmap for the solution.
+3.	Design an A/B testing plan.
+4.	Use ClickUp to develop the project plan and assign tasks to fictitious roles as necessary. Also determine appropriate deadlines for the tasks.
 
       ## Method of submission
 
