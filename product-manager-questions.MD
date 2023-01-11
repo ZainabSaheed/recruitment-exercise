@@ -16,5 +16,7 @@ As a BackEnd Engineer,
       ## Method of submission
 
 •	If you work online, please share a link of your work with the email hthub247@gmail.com. 
+
 •	If you work locally, fork the given GitHub repository (https://github.com/hthub247/recruitment-exercise) and open an MR/PR request with the deliverables.
+
 •	You can also call 08060553348 to ask questions directly.
